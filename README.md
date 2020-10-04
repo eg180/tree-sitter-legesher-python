@@ -120,7 +120,7 @@ npm install
 
 ## Development
 
-We love your desire to give back, and want to make the process as welcoming to newcomers and experts as possible. We're working on developing more intuitive tutorials for individuals of all skill levels and expertise, so if you think the community would value from being walked through the steps you're going through please share! ❤️
+We love your desire to give back, and want to make the process as welcoming as possible to newcomers and experts. We're working on developing more intuitive tutorials for individuals of all skill levels and expertise, so if you think the community would value from being walked through the steps you're going through please share! ❤️
 
 ### Test Changes
 
